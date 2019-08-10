@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "185800948383",
+    "firebase_url": "https://flash-chat-9b343.firebaseio.com",
+    "project_id": "flash-chat-9b343",
+    "storage_bucket": "flash-chat-9b343.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185800948383:android:25d90469ae77c8dc",
+        "android_client_info": {
+          "package_name": "com.porcho.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185800948383-spdjmu40pjud9tsi4h6n3d47fa19bimp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSsRDw_nRFs1ZiV3ulKfZMHLPXdnUSA8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185800948383-spdjmu40pjud9tsi4h6n3d47fa19bimp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
